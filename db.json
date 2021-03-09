@@ -11,56 +11,48 @@
   "image": "https://media.gucci.com/style/White_South_0_40_632x790/1608141614/616036_XJDEY_9791_002_100_0000_Light.jpg",
   "price": 390
 }],
-
 "Disney"" [{
   "id": 3,
   "name": "Disney",
   "image": "https://media.gucci.com/style/White_South_0_40_632x790/1607538604/615044_XJDBJ_9088_002_100_0000_Light.jpg",
   "price": 480
 }],
-
 "Red kill":[{
   "id": 4,
   "name": "Red kill",
   "image": "https://media.gucci.com/style/White_South_0_20_316x395/1608141612/616036_XJDEY_6429_002_100_0000_Light.jpg",
   "price": 320  
 }],
-
 "Blue short": [{
   "id": 5,
   "name": "Blue short",
   "image": "https://media.gucci.com/style/White_South_0_40_632x790/1603471506/616036_XJDAG_4684_002_100_0000_Light.jpg",
   "price": 340 
 }],
-
 "Not":[{
   "id": 6,
   "name": "Not",
   "image": "https://media.gucci.com/style/White_South_0_40_632x790/1599567305/616036_XJCXX_1082_002_100_0000_Light.jpg",
   "price": 350  
 }],
-
 "Whitty":[{
   "id": 7,
   "name": "Whitty",
   "image": "https://media.gucci.com/style/White_South_0_40_632x790/1608227107/626039_XKBEV_9222_002_100_0000_Light.jpg",
   "price": 300  
 }],
-
 "Boutique":[{
   "id": 8,
   "name": "Boutique",
   "image": "https://media.gucci.com/style/White_South_0_20_316x395/1580236204/548334_XJCKY_1082_002_100_0000_Light.jpg",
   "price": 375  
 }],
-
 "Mustafin":[{
   "id": 9,
   "name": "Mustafin",
   "image": "https://media.gucci.com/style/White_South_0_20_316x395/1537981204/440103_X3F05_9045_002_100_0000_Light.jpg",
   "price": 777  
-}]
-
+}],
 "Abdimanato":[{
   "id": 10,
   "name": "Abdimanato",
