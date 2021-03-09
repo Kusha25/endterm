@@ -1,5 +1,5 @@
 {
-"shirts": 
+"shirts":[ 
   {
   "id": 1,
   "name": "The NF",
@@ -59,5 +59,5 @@
   "name": "Abdimanato",
   "image": "https://media.gucci.com/style/White_South_0_40_632x790/1537902006/440103_X3F05_1508_002_100_0000_Light.jpg",
   "price": 400 
-}
+}]
 }
